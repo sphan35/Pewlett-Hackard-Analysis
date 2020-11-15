@@ -19,7 +19,7 @@ Employee Database with SQL
     
     2. From image two, the duplicate name issues is resolved by the usage of the **"DISTINCT ON"** coding statemetn that retrieves the first occurence of the employee number. This new clean and unique table provides the employee number, their full name, and job title. 
     
-    3. From image three, a refined table of the number of employees eligible for retirement based on title name. A **"COUNT"** coding statement was used to count every employee based on title, with there being 7 positions with employees up for retirement. From image three one can deduce that, the position of Senior Engineer has the most employees eligible for retirement with 29,414 accounted for. The Senior Staff position had the second most employees eligible for retirement with 28,254 employees. Following suit was the Engineer position with 14,222 employees, the Staff position with 12,243 employees, Technique Leader at 4,502, and the position with the lowest number of employees eligibile for retirement being the Manager position with only 2 employees. 
+    3. From image three, a refined table of the number of employees eligible for retirement based on title name. A **"COUNT"** coding statement was used to count every employee based on title, with there being 7 positions with employees up for retirement. From image three one can deduce that, the position of Senior Engineer has the most employees eligible for retirement with 29,415 accounted for. The Senior Staff position had the second most employees eligible for retirement with 28,254 employees. Following suit was the Engineer position with 14,221 employees, the Staff position with 12,243 employees, Technique Leader at 4,502, and the position with the lowest number of employees eligibile for retirement being the Manager position with only 2 employees. 
     
     4. The retirement tables that are demonstrated in the images above were created by employee data from Pewlett Hackard that were queried using SQL. The retrieval of data from the employee databases and data engineering on the analyst's end allowed for the processing of employees eligible for retirement. Employees who were born between January 1, 1952 and December 31, 1955 were identified through are data analysis and subject to the data modeling and data engineering presented from the retirement tables created in deliverable one, and shown in the three images above.
     
@@ -34,6 +34,11 @@ Employee Database with SQL
   ![](images/pewlett_hackard_mentors_number.png)
   
   - **Four major points from the second deliverable**
-    1. From the image above, the table created from deliverable 2 showcases employees born between January 1, 1965 and        December 31, 1965 eligible to be apart of the Mentorship Program of Pewlett Hackard. 
+    1. From image one, the table created from deliverable 2 showcases employees eligible to be apart of the Mentorship Program of Pewlett Hackard. 
   
-    2. 
+    2. From image two, the table created is a count of how many employees are eligible for the mentorship program based on their job title. The position with the most candidates was Senior Staff with 415 eligible candidates for the mentorship program. The Engineer position came in second with 394 employees eligible for the mentoship program, the Staff position had 309 employees, Senior Engineer position had 298 employees, Technique Leader had 77 employees, and Assistant Engineer had 56 employees eligible for the mentorship program. The Manager position had no employees eligible for the mentorship program.
+    
+    3. Employees of Pewlett Hackard were deemed eligible for the mentorship program if the employee was born between January 1, 1965 and December 31, 1965. Additionally, the date '9999-01-01' was used to filter out for current employees. 
+    
+    4. The Table provided for this deliverable was created through the joining of Employee database and Department Employee database. Employee number was the primary key in both databases to help merge the databases and provide the necessary information to create the mentorship eligibility table shown by the images provided.
+    
