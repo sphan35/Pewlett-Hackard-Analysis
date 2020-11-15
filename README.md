@@ -7,4 +7,10 @@ Employee Database with SQL
 
 ## Results from the Pewlett Hackard analysis deliverables
   - **Deliverable 1: The Number of Retiring Employees by Title**
+  
+  **IMAGE ONE**
   ![](images/pewlett_hackard_retiree_names.png)
+  **IMAGE TWO**
+  ![](images/pewlett_hackard_unique_names.png)
+  - Four major points from the first deliverable
+    1. From the image above, a table of the employee number, full name, job title, and time with the company is listed. 
