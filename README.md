@@ -24,13 +24,13 @@ Employee Database with SQL
     4. The retirement tables that are demonstrated in the images above were created by employee data from Pewlett Hackard that were queried using SQL. The retrieval of data from the employee databases and data engineering on the analyst's end allowed for the processing of employees eligible for retirement. Employees who were born between January 1, 1952 and December 31, 1955 were identified through are data analysis and subject to the data modeling and data engineering presented from the retirement tables created in deliverable one, and shown in the three images above.
     
   - **Deliverable 2: Employees Eligible for the Mentorship Program**
-   **IMAGE ONE
-   ![](images/pewlett_hackard_mentorship.png)
-   ** IMAGE TWO**
+  **IMAGE ONE**
+  ![](images/pewlett_hackard_mentorship.png)
+  ** IMAGE TWO**
    
-   ![](images/pewlett_hackard_mentors_number.png)
-     
-     - **Four major points from the second deliverable**
-        1. From the image above, the table created from deliverable 2 showcases employees born between January 1, 1965 and December 31, 1965 eligible to be apart of the Mentorship Program of Pewlett Hackard. 
-        
-        2. 
+  ![](images/pewlett_hackard_mentors_number.png)
+  
+  - **Four major points from the second deliverable**
+  1. From the image above, the table created from deliverable 2 showcases employees born between January 1, 1965 and        December 31, 1965 eligible to be apart of the Mentorship Program of Pewlett Hackard. 
+  
+  2. 
