@@ -12,5 +12,8 @@ Employee Database with SQL
   ![](images/pewlett_hackard_retiree_names.png)
   **IMAGE TWO**
   ![](images/pewlett_hackard_unique_names.png)
+  **IMAGE THREE**
+  ![](images/pewlett_hackard_retiree_names.png)
   - Four major points from the first deliverable
-    1. From the image above, a table of the employee number, full name, job title, and time with the company is listed. 
+    1. From image one, a table of the employee number, full name, job title, and time with the company is listed. There are duplicate entries for some employees because they have switched titles over the years.
+    2. From image two, the duplicate name issues is resolved by the usage of the "DISTINCT ON" coding statemetn that retrieves the first occurence of the employee number. This new clean and unique table provides the employee number, their full name, and job title. 
