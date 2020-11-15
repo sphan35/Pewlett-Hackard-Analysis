@@ -16,4 +16,14 @@ Employee Database with SQL
   ![](images/pewlett_hackard_retiree_names.png)
   - Four major points from the first deliverable
     1. From image one, a table of the employee number, full name, job title, and time with the company is listed. There are duplicate entries for some employees because they have switched titles over the years.
-    2. From image two, the duplicate name issues is resolved by the usage of the "DISTINCT ON" coding statemetn that retrieves the first occurence of the employee number. This new clean and unique table provides the employee number, their full name, and job title. 
+    
+    2. From image two, the duplicate name issues is resolved by the usage of the **"DISTINCT ON"** coding statemetn that retrieves the first occurence of the employee number. This new clean and unique table provides the employee number, their full name, and job title. 
+    
+    3. From image three, a refined table of the number of employees eligible for retirement based on title name. A **"COUNT"** coding statement was used to count every employee based on title, with there being 7 positions with employees up for retirement. From image three one can deduce that, the position of Senior Engineer has the most employees eligible for retirement with 29,414 accounted for. The Senior Staff position had the second most employees eligible for retirement with 28,254 employees. Following suit was the Engineer position with 14,222 employees, the Staff position with 12,243 employees, Technique Leader at 4,502, and the position with the lowest number of employees eligibile for retirement being the Manager position with only 2 employees. 
+    
+    4. The retirement tables that are demonstrated in the images above were created by employee data from Pewlett Hackard that were queried using SQL. The retrieval of data from the employee databases and data engineering on the analyst's end allowed for the processing of employees eligible for retirement. Employees who were born between January 1, 1952 and December 31, 1955 were identified through are data analysis and subject to the data modeling and data engineering presented from the retirement tables created in deliverable one, and shown in the three images above.
+    
+  - **Deliverable 2: The Number of Retiring Employees by Title**
+    
+   
+    
