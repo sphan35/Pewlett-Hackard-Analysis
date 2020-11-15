@@ -25,12 +25,14 @@ Employee Database with SQL
     
   - **Deliverable 2: Employees Eligible for the Mentorship Program**
   **IMAGE ONE**
+  
   ![](images/pewlett_hackard_mentorship.png)
-  ** IMAGE TWO**
+  
+  **IMAGE TWO**
    
   ![](images/pewlett_hackard_mentors_number.png)
   
   - **Four major points from the second deliverable**
-  1. From the image above, the table created from deliverable 2 showcases employees born between January 1, 1965 and        December 31, 1965 eligible to be apart of the Mentorship Program of Pewlett Hackard. 
+    1. From the image above, the table created from deliverable 2 showcases employees born between January 1, 1965 and        December 31, 1965 eligible to be apart of the Mentorship Program of Pewlett Hackard. 
   
-  2. 
+    2. 
