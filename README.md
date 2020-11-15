@@ -42,3 +42,9 @@ Employee Database with SQL
     
     4. The Table provided for this deliverable was created through the joining of Employee database and Department Employee database. Employee number was the primary key in both databases to help merge the databases and provide the necessary information to create the mentorship eligibility table shown by the images provided.
     
+## Summary of the Pewlett Hackard Analysis
+  - The "silver tsunami" that Pewlett Hackard faces in the near future is quite the turnover. Nearly 88,637 employees are eligible for retirement, meaning 88,637 position would beed to be filled. This is why planning ahead is necessary, and a plan can materialize by taking this first step of using the data we have for analysis. This analysis can provide solutions to address future problems.
+  - As previously noted, with planning comes possible solutions to a problem. The data analysis achieved by the SQL queries on the employee data to identify future retirees also allowed for the the identification of potential mentors for future candidates. Having a mentorship program to train future employees will mitigate the losses in man power the company expects during this "silver tsunami". From our data analysis and creation of tables through SQL data modeling, our results show that the number of employees eligible for the mentorship program is at about 1549 employees. It is a start to have this many eligible mentors for the next generation of Pewlett Hackard employees. Two additional queries or tables that may provide more insight for the companies future is 
+    1. Creating a query/table of the number of interns or new hires we are bringing in each year for every job position.
+    2. Creating a query/table based on the departments productivity or profitability, to help determine areas of the company to improve via hiring more man-power or dedicating resources to a department who's performance could be better. 
+    
